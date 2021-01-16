@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create splash screen in android](https://www.youtube.com/watch?v=_fXpDPNTcZs)
+- [Sum of Digits of a Number using Recursion .](https://www.youtube.com/watch?v=dYRzFnmlqdE)
+- [FIND the BINARY , OCTAL and HexaDecimal equivalent of DECIMAL number using recusion in C](https://www.youtube.com/watch?v=cEQdPUMvISY)
+- [Armstrong Number's in C.](https://www.youtube.com/watch?v=EdDR_Mjns8A)
+- [Matrix addition in C](https://www.youtube.com/watch?v=qHmOOKxvfnc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/UCLGXtlV6Maa0uVJl30YAUVg)
