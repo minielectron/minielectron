@@ -4,7 +4,7 @@
 ## I'm a Developer, and Blogger!!
 
 - 🔭 I just finished my portfolio website developed in django
-- 🌱 I’m currently learning everything 🤣
+> - 🌱 I’m learning everything  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 
     - Contribute more to Open Source projects and 
